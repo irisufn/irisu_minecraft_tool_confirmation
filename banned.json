@@ -1,12 +1,8 @@
 {
   "banned": [
     {
-      "hwid": "0000_0000_0000_0001_00A0_7522_3A61_ECEE.",
-      "reason": "banned_3"
-    },
-    {
-      "hwid": "ACE4_2E00_95A5_6A86.",
-      "reason": "banned_3"
+      "hwid": ".",
+      "reason": ""
     }
   ]
 }
